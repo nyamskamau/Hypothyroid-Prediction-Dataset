@@ -1,4 +1,4 @@
-#  My analysis of the Hypothyroid-Prediction-Dataset with
+#  My analysis of the Hypothyroid-Dataset with
  * DecisionTreesClassifier
  * AdaBoostClassifier
  * GradientBoostingClassifier
